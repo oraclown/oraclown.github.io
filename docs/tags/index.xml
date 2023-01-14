@@ -5,6 +5,16 @@
     <link>http://oraclown.github.io/tags/</link>
     <description>Recent content in Tags on owen b</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://oraclown.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Jan 2023 17:16:47 -0600</lastBuildDate><atom:link href="http://oraclown.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>default</title>
+      <link>http://oraclown.github.io/tags/default/</link>
+      <pubDate>Sat, 14 Jan 2023 17:16:47 -0600</pubDate>
+      
+      <guid>http://oraclown.github.io/tags/default/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

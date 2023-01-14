@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>owen b</title>
-    <link>http://oraclown.github.io/</link>
-    <description>Recent content on owen b</description>
+    <title>Posts on owen b</title>
+    <link>http://oraclown.github.io/posts/</link>
+    <description>Recent content in Posts on owen b</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Jan 2023 17:16:47 -0600</lastBuildDate><atom:link href="http://oraclown.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jan 2023 17:16:47 -0600</lastBuildDate><atom:link href="http://oraclown.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
       <link>http://oraclown.github.io/posts/2023-01-14-my-first-post/</link>
