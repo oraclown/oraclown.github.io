@@ -2,6 +2,7 @@ baseURL = 'http://oraclown.github.io/'
 languageCode = 'en-us'
 title = 'owen b'
 theme = "smol"
+publishDir = "docs"
 
 # Parameters
 [params]
